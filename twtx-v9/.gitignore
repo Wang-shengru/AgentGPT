@@ -9,3 +9,4 @@ __pycache__/
 screenshots/*.tmp.png
 .venv/
 shioaji.log
+!.env.example
