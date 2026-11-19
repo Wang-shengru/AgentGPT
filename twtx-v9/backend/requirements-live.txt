@@ -1,0 +1,3 @@
+# Live 模式：永豐 Shioaji（本專案依 1.7.x 簽名撰寫，並相容 1.0–1.2 舊式 api.quote.* 寫法）
+-r requirements.txt
+shioaji>=1.2

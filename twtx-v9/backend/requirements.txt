@@ -1,0 +1,4 @@
+# Mock 模式最小需求
+fastapi>=0.110
+uvicorn[standard]>=0.29
+python-dotenv>=1.0

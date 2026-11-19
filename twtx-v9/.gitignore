@@ -1,0 +1,11 @@
+data/
+logs/
+.env
+frontend/node_modules/
+frontend/dist/
+__pycache__/
+*.pyc
+.pytest_cache/
+screenshots/*.tmp.png
+.venv/
+shioaji.log
